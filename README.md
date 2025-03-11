@@ -370,7 +370,7 @@ Este projeto foi desenvolvido pelos alunos:
 
 - Thiago de Paula Fernandes, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
   > [Linkedin](http://www.linkedin.com/in/thiagopfernandes)
-  > [GitHub](https://github.com/ThiagopFernandes01)
+  > [GitHub](https://github.com/ThiagopFernandes01).
   >
   > 
 **-Trabalho Orientado pela Profa. Cristiane Aparecida Lana**
